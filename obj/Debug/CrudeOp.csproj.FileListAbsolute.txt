@@ -1,0 +1,14 @@
+C:\Users\abc\source\repos\CrudeOp\CrudeOp\bin\Debug\CrudeOp.exe.config
+C:\Users\abc\source\repos\CrudeOp\CrudeOp\bin\Debug\CrudeOp.exe
+C:\Users\abc\source\repos\CrudeOp\CrudeOp\bin\Debug\CrudeOp.pdb
+C:\Users\abc\source\repos\CrudeOp\CrudeOp\bin\Debug\Dapper.dll
+C:\Users\abc\source\repos\CrudeOp\CrudeOp\bin\Debug\Dapper.xml
+C:\Users\abc\source\repos\CrudeOp\CrudeOp\obj\Debug\CrudeOp.csproj.AssemblyReference.cache
+C:\Users\abc\source\repos\CrudeOp\CrudeOp\obj\Debug\CrudeOp.csproj.CoreCompileInputs.cache
+C:\Users\abc\source\repos\CrudeOp\CrudeOp\obj\Debug\CrudeOp.csproj.CopyComplete
+C:\Users\abc\source\repos\CrudeOp\CrudeOp\obj\Debug\CrudeOp.exe
+C:\Users\abc\source\repos\CrudeOp\CrudeOp\obj\Debug\CrudeOp.pdb
+C:\Users\abc\source\repos\CrudeOp\CrudeOp\bin\Debug\System.Data.SqlClient.dll
+C:\Users\abc\source\repos\CrudeOp\CrudeOp\bin\Debug\System.Data.SqlClient.xml
+C:\Users\abc\source\repos\CrudeOp\CrudeOp\bin\Debug\Aspose.Email.dll
+C:\Users\abc\source\repos\CrudeOp\CrudeOp\bin\Debug\Aspose.Email.xml
